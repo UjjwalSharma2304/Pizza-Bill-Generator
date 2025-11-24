@@ -1,3 +1,5 @@
+PIZZA BILL GENERATOR
+
 This project is a straightforward, interactive Python application that simulates a pizza ordering kiosk. I built this to demonstrate how to handle user inputs, manage data with dictionaries, and generate clean, formatted output in a command-line environment.
 
 
@@ -73,3 +75,4 @@ If I continue working on this, here are a few things I'd like to add:
 
 
 * &nbsp;Save to File: Export the final receipt to a .txt file.
+
